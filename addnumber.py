@@ -1,1 +1,2 @@
-print("Theeraphat Jnala 109")
+print("Theeraphat Jnala")
+print("68040249109")
